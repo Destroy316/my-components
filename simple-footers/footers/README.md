@@ -1,0 +1,1 @@
+A README („olvassel”) fájlok formátuma Markdown (.md). A Markdownról bővebben itt tudsz olvasni (angolul), de most elég egy rövid leírást írnod a szövegszerkesztődbe, és elmenteni a mappába README.md néven.
